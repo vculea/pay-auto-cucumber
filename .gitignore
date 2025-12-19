@@ -6,7 +6,5 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
-/reports/
-/reports/.cucumber-report.html
-/reports/.cucumber-report.json
+reports/
 package-lock.json
