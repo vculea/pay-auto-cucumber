@@ -1,0 +1,26 @@
+{
+  "name": "pay-auto-cucumber",
+  "version": "1.0.0",
+  "description": "Pay automatically for different sites using cucumber",
+  "main": "index.js",
+  "scripts": {
+    "cucumber": "cucumber-js --config config/cucumber.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vculea/pay-auto-cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vculea/pay-auto-cucumber/issues"
+  },
+  "homepage": "https://github.com/vculea/pay-auto-cucumber#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.4.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3",
+    "ts-node": "^10.9.2"
+  }
+}
