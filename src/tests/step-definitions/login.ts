@@ -1,8 +1,4 @@
-import {
-    Given,
-    When,
-    Then,
-  } from "@cucumber/cucumber";
+import {Given, When, Then } from "@cucumber/cucumber";
 
   import { Page, Browser, chromium, expect } from "@playwright/test";
 
